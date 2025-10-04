@@ -1,0 +1,6 @@
+{
+  "intitialScene": "MainMenu",
+  "scenes": {
+    "MainMenu": "scenes/MainMenu.json"
+  }
+}
